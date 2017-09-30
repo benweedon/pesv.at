@@ -1,0 +1,11 @@
+{
+  "name": "langsite",
+  "private": true,
+  "dependencies": {
+    "metalsmith-start": "^2.0.1",
+    "metalsmith-writemetadata": "^0.4.5",
+    "metalsmith": "^2.3.0",
+    "metalsmith-permalinks": "^0.5.0",
+    "metalsmith-pandoc": "^0.2.4"
+  }
+}
